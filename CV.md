@@ -23,7 +23,7 @@ Relevant experience and skills
  Hardware/software system integration.
  Operating systems: Linux, Sun Solaris, NetBSD - deep knowledge
    of system management in unix systems. Deep knowledge of Debian/GNU Linux 
-   package management and configuration system. 
+   package management and configuration system. Knowledge of DevOps (salt).
  Programming languages: 
    Python (5 years of experience):
      * WSGI stack.
@@ -31,14 +31,16 @@ Relevant experience and skills
        but not Zope/Plone itself)
      * Buildout, and other python-based deploying technologies.
      * Twisted (asynchronous servers, clients and process dispatchers,
+     * SQLAlchemy (proficient using, custom types, extensions)
+     * Web frameworks (pyramid, django, tornado)
  Other programming languages: 
+   * Erlang (OTP design principles, rebar, cowboy) 
    * Lua (including bindings for C/C++ libraries, and contribution to several
      open source projects.
-   * Erlang
    * C++ (4 year of experience, proficient use of STL and  Boost libraries)
    * shell scripting, development related to system management.
-   * Javascript (not expert, but enought knowelege to troubleshoot cases
-     when clientside code does not working with my serverside)
+   * Javascript (not expert, but enought knowlege to troubleshoot cases
+     when clientside code goes into problems).
    * Can read/understand code in most of modern imperative and functional 
      languages.
  Solid understanding of VoIP technologies: ASN.1 (notation and encoding),
@@ -47,8 +49,8 @@ Relevant experience and skills
    including the port Linux operating systems to embedded targets, 
    cross-building.
  Knowledge of Sun hardware platform.
- Network protocols: H.323. SMTP , HTTP,XML-RPC,XMPP,
-   developing custom protocols based on HTTP.
+ Network protocols: H.323, SMTP, HTTP, XMPP,
+   developing custom protocols based on HTTP (REST/XML-RPC/JSON-RPC).
    Develop VoIP applications based on H.323. 
 
 Employment history
@@ -60,23 +62,24 @@ Lead developer, CEO, CTO, company owner
   
   * Contract work for "IT Infrastructure, Kiev" -- development various plugins
     for CoolReader application (for LBook e-ink readers)
-    (2010)
+    (2010) (c++)
   * Contract work for "IT Infrastructure, Kiev" -- 
     Was hired to work fulltime on OpenInkpot project, developed both system
     components and applications
-    (2010-2011)
+    (2010-2011) (c,c++)
   * Contract work for customer, who wants to be anonymous
     Develop various enchancement for Lua infrastructure, and binding for
     Lua to third party libraries (most of this activity open sourced, and 
     visible via my github profile)
-    (2011--now)
+    (2011--now) (lua)
   * Various web development (python, django/pyramid) for customers
   * Contract work for customer, who wants to be anonymous
-    Support of realtime web application in python (tornado)
+    Support of realtime web application in python (tornado), optimising memory
+    usage. (python, tornado)
 
 DIP Studija (Lithuanian company)
 (March 2007 -- April 2008 as staff)
-(April 2008 -- August 2008 as contractor)
+(April 2008 -- August 2008 as independent contractor)
 Software developer
 
   * Developed custom video hosting for in-house usage (storage and server parts)
@@ -148,7 +151,7 @@ Spoken languages
 ----------------
   * English --- good written english, excelent spoken.
   * Russian --- mother tongue
-  * Lithuanian --- currently learning
+  * Lithuanian --- excelent
 
 Professional interests
 ----------------------
@@ -163,5 +166,6 @@ Links
 
 Notes
 -----
-
-References are available upon request.
+* Have EU work permit, can work as staff member (remote) or as independent 
+  contractor (b2b contract).
+* References are available upon request.
