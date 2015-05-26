@@ -3,6 +3,7 @@ Alexander V. Nikolaev
 * E-mail: avn@daemon.hole.ru 
 * Phone: +37065015074 
   (Preferred time: 15:00 - 21:00 GMT)
+* skype: avnik78
 
 Objective
 ---------
@@ -12,7 +13,7 @@ Objective
 Summary
 -------
 
- 12-years experience in software development, 5-years experience
+ 12-years experience in software development, 7-years experience
  in system administration, strong problem solving skills, initiative,
  adaptability, willing to accept responsibility, willing to learn,
  strong team player, and strong communication skills.
@@ -28,7 +29,7 @@ Relevant experience and skills
   of system management in unix systems. Deep knowledge of Debian/GNU Linux 
   package management and configuration system. Knowledge of DevOps (salt).
 
-* Python (5 years of experience):
+* Python (7 years of experience):
     - WSGI stack.
     - Proficient knowelege of ZCA (Zope Component Architecture, 
         but not Zope/Plone itself)
@@ -45,12 +46,12 @@ Relevant experience and skills
     - shell scripting, development related to system management.
     - Javascript (not expert, but enought knowlege to troubleshoot cases
       when clientside code goes into problems).
+    - Go (1 year of experience)
+    - Basic knowledge of Ocaml and Haskell
 
   Can read/understand code in most of modern imperative and functional 
   languages.
 
-* Solid understanding of VoIP technologies: ASN.1 (notation and encoding),
-    H.323, SIP, RTP, IAX2. Knowledge of peer-2-peer technologies.
 * Establishing development environments for embedded platforms 
   including the port of Linux operating systems to embedded targets, 
   cross-building.
@@ -58,6 +59,7 @@ Relevant experience and skills
 * Knowledge of Sun hardware platform.
 * Network protocols: H.323, SMTP, HTTP, XMPP,
   developing custom protocols based on HTTP (REST/XML-RPC/JSON-RPC).
+  Knowledge of peer-2-peer technologies.
 
 Employment history
 ------------------
@@ -67,22 +69,32 @@ Employment history
     Lead developer, CEO, CTO, company owner
     (April 2008 -- now)
 
-  * Contract work for "IT Infrastructure, Kiev":
-    development various plugins for CoolReader application on LBook e-ink readers
-    (2010, c++)
+  * Contract work for SendGrid, inc:
+    - Custom tools to benchmark RabbitMQ and Kafka (erlang, and python)
+    - Develop agent software for cleverdb.io project (python, opensource:
+      <https://github.com/sendgridlabs/cleverdb-agent> ),
+      also support packages for major linux distributions.
+    - Develop go-gmime binding (over 80% of API covered, opensource:
+      http://github.com/sendgrid/go-gmime)
+    - Varoius other in-house tools and libraries (golang, python)
+    (2013-2015)
+
+  * Contract work for LogicEditor:
+    Develop various enchancement for Lua infrastructure, and binding for
+    Lua to third party libraries (most of this activity open sourced, and 
+    visible via my github profile)
+    (2011-2012, lua)
+  * Contract work for customer, who wants to be anonymous
+    Support of realtime web application in python (tornado), optimising memory
+    usage. (2013, python, tornado)
   * Contract work for "IT Infrastructure, Kiev":
     Was hired to work fulltime on OpenInkpot project, developed both system
     components and applications
     (2010-2011, c,c++)
-  * Contract work for customer, who wants to be anonymous
-    Develop various enchancement for Lua infrastructure, and binding for
-    Lua to third party libraries (most of this activity open sourced, and 
-    visible via my github profile)
-    (2011--now, lua)
+  * Contract work for "IT Infrastructure, Kiev":
+    development various plugins for CoolReader application on LBook e-ink readers
+    (2010, c++)
   * Various web development (python, django/pyramid) for customers
-  * Contract work for customer, who wants to be anonymous
-    Support of realtime web application in python (tornado), optimising memory
-    usage. (2013, python, tornado)
 
 ### DIP Studija (Lithuanian company)
 
@@ -94,15 +106,6 @@ Employment history
     (python, twisted)
   * Developed various custom web crawlers.
     (python, twisted)
-
-### Infomir-telecom (Russia)
-
-    (September 2004)
-    part-time job
-
-  Developed voice menu and answering machine based on H.323. (C++) 
-  Integrate with Swissvoice endpoints.
-  Adapteded AAA and billing system for small VoIP operator.
 
 ### Jet Infosystems (Russia)
 
@@ -127,13 +130,8 @@ Employment history
     for software packages building.
   * Developed several components for Chainmail (configuration management system
     for firewall appliance) (C++)
-  * Designed and implemented modules of language selection and regional setting
-    for new AltLinux installer. (C++)
-  * Build on PPC64 port of Debian/GNU linux 
-    (Complete native toolchain, full 64bit userland)
   * Prepared Debian/GNU Linux DVD images to release (with additional packages 
     with cyrillic fonts, and AltLinux developed software)
-  * Made several technical translation of booklets (from english to russian)
 
 ### Moscow, Russian Linux Media Labs LLC (US company) operation
 
@@ -142,30 +140,23 @@ Employment history
 
  * System integration for videoconferences and IP-phone appliances 
    pre-production prototypes (C++,perl).
- * Supported custom branch of Openh323 stack (C++)
-   Integrate and support compatibility with PolyCom and Sony video conferences 
-   appliances
- * Designed and implemented project for automated embedded/distributed 
-   Linux installation and configuraton management.
- * Developed driver for LPT controlled alarm source for digital surveillance 
-   system (C++)
  * Produced installable packages from difficult source code. Proficient use of
    `autoconf`, `automake`, `RPM` and `Dpkg` packaging tools.
- * system administration of build servers.
    
 ## Spoken languages
-  * English --- good written english, fluent spoken.
+  * English --- excellent written english, fluent spoken.
   * Russian --- mother tongue
   * Lithuanian --- fluent
 
 ## Professional interests
 * Compilers and code generations (especially LLVM)
-* OpenGL (parts of Gallium related to LLVM)
+* Functional programing language
+* NixOS linux distribution
 
 ## Links
 
-* LinkedIn: https://linkedin.com/in/avnik
-* GitHub: https://github.com/avnik
+* LinkedIn: <https://linkedin.com/in/avnik>
+* GitHub: <https://github.com/avnik>
 
 ## Notes
 * Have EU work permit, can work as staff member (remote) or as independent 
