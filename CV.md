@@ -3,7 +3,7 @@ Alexander V. Nikolaev
 * E-mail: avn@daemon.hole.ru 
 * Phone: +37065015074 
   (Preferred time: 15:00 - 21:00 GMT)
-* skype: avnik78
+* Skype: avnik78
 
 Objective
 ---------
@@ -27,7 +27,8 @@ Relevant experience and skills
 * Hardware/software system integration.
 * Operating systems: Linux, Sun Solaris, NetBSD - deep knowledge
   of system management in unix systems. Deep knowledge of Debian/GNU Linux 
-  package management and configuration system. Knowledge of DevOps (salt).
+  package management and configuration system. Knowledge of DevOps
+  (salt, ansible).
 
 * Python (7 years of experience):
     - WSGI stack.
@@ -36,7 +37,7 @@ Relevant experience and skills
     - Buildout, and other python-based deploying technologies.
     - Twisted (asynchronous servers, clients and process dispatchers)
     - SQLAlchemy (custom types, extensions)
-    - Web frameworks (pyramid, django, tornado)
+    - Web frameworks (pyramid, flask, tornado)
 
 * Other programming languages
     - Erlang (OTP design principles, rebar, cowboy) 
@@ -52,9 +53,8 @@ Relevant experience and skills
   Can read/understand code in most of modern imperative and functional 
   languages.
 
-* Establishing development environments for embedded platforms 
-  including the port of Linux operating systems to embedded targets, 
-  cross-building.
+* Knowledge of AWS cloud services, expirience with Dynamo DB and SQS.
+* Proficiency with docker, and related tools.
 * Databases (basic knowledge of both SQL and NoSQL including Redis and Riak)
 * Knowledge of Sun hardware platform.
 * Network protocols: H.323, SMTP, HTTP, XMPP,
@@ -71,11 +71,12 @@ Employment history
 
   * Contract work for SendGrid, inc:
     - Custom tools to benchmark RabbitMQ and Kafka (erlang, and python)
-    - Develop agent software for cleverdb.io project (python, opensource:
-      <https://github.com/sendgridlabs/cleverdb-agent> ),
-      also support packages for major linux distributions.
+    - Develop agent software for <http://cleverdb.io> project
+      (python, opensource:
+      <https://github.com/sendgridlabs/cleverdb-agent>),
+      also support packages of `cleverdb-agent` for major linux distributions.
     - Develop go-gmime binding (over 80% of API covered, opensource:
-      http://github.com/sendgrid/go-gmime)
+      <https://github.com/sendgrid/go-gmime>)
     - Varoius other in-house tools and libraries (golang, python)
     (2013-2015)
 
@@ -122,7 +123,7 @@ Employment history
 
 ### AltLinux (Russia)
 
-    (August 2002 - June 2004)
+    (August 2002 --- June 2004)
     Software Developer
 
   * Prototyping automated build and test environment which led to 3 times 
@@ -135,7 +136,7 @@ Employment history
 
 ### Moscow, Russian Linux Media Labs LLC (US company) operation
 
-    (October 2000 - July 2002)
+    (October 2000 -- July 2002)
     Software Analyst and Developer 
 
  * System integration for videoconferences and IP-phone appliances 
@@ -150,7 +151,7 @@ Employment history
 
 ## Professional interests
 * Compilers and code generations (especially LLVM)
-* Functional programing language
+* Functional programing languages
 * NixOS linux distribution
 
 ## Links
