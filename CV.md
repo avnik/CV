@@ -1,6 +1,6 @@
 Alexander V. Nikolaev 
 =====================
-* E-mail: avn@daemon.hole.ru 
+* E-mail: avn@daemon.hole.ru, avnick@gmail.com 
 * Phone: +37065015074 
   (Preferred time: 15:00 - 21:00 GMT)
 * Skype: avnik78
@@ -8,12 +8,12 @@ Alexander V. Nikolaev
 Objective
 ---------
 
- Position of software developer in unix oriented project (remote).
+ Position of software developer in unix oriented project (remote, B2B).
 
 Summary
 -------
 
- 12-years experience in software development, 7-years experience
+ 13-years experience in software development, 8-years experience
  in system administration, strong problem solving skills, initiative,
  adaptability, willing to accept responsibility, willing to learn,
  strong team player, and strong communication skills.
@@ -28,9 +28,10 @@ Relevant experience and skills
 * Operating systems: Linux, Sun Solaris, NetBSD - deep knowledge
   of system management in unix systems. Deep knowledge of Debian/GNU Linux 
   package management and configuration system. Knowledge of DevOps
-  (salt, ansible).
+  (salt, ansible). Knowledge of Nix package manager and NixOS Linux distribution,
+  contributing to nixpkgs. Expirience of bug triaging.
 
-* Python (7 years of experience):
+* Python (8 years of experience):
     - WSGI stack.
     - Proficient knowelege of ZCA (Zope Component Architecture, 
         but not Zope/Plone itself)
@@ -40,6 +41,7 @@ Relevant experience and skills
     - Web frameworks (pyramid, flask, tornado)
 
 * Other programming languages
+    - Basic knowledge of Ocaml and Haskell
     - Erlang (OTP design principles, rebar, cowboy) 
     - Lua (including bindings for C/C++ libraries, and contribution to several
       open source projects.
@@ -47,8 +49,7 @@ Relevant experience and skills
     - shell scripting, development related to system management.
     - Javascript (not expert, but enought knowlege to troubleshoot cases
       when clientside code goes into problems).
-    - Go (1 year of experience)
-    - Basic knowledge of Ocaml and Haskell
+    - Go (2 year of experience)
 
   Can read/understand code in most of modern imperative and functional 
   languages.
@@ -69,7 +70,12 @@ Employment history
     Lead developer, CEO, CTO, company owner
     (April 2008 -- now)
 
-  * Contract work for SendGrid, inc:
+  * Contract work for Asteris, LLC
+    - Develop various components of Cisco's Mantl (<https://github.com/mantl/mantl>)
+    - Develop storage related (LVM/FS) components of <http://converge.aster.is>
+    (2015-2016)
+
+  * Contract work for SendGrid, Inc:
     - Custom tools to benchmark RabbitMQ and Kafka (erlang, and python)
     - Develop agent software for <http://cleverdb.io> project
       (python, opensource:
@@ -100,7 +106,7 @@ Employment history
 ### DIP Studija (Lithuanian company)
 
     Software developer
-    (March 2007 -- April 2008 as staff)
+    (March 2007 -- April 2008 as staff member)
     (April 2008 -- August 2008 as independent contractor)
 
   * Developed custom video hosting for in-house usage (storage and server parts)
@@ -150,16 +156,15 @@ Employment history
   * Lithuanian --- fluent
 
 ## Professional interests
-* Compilers and code generations (especially LLVM)
-* Functional programing languages
-* NixOS linux distribution
+  * Compilers and code generations
+  * Functional programing languages
+  * NixOS linux distribution
 
 ## Links
-
-* LinkedIn: <https://linkedin.com/in/avnik>
-* GitHub: <https://github.com/avnik>
+  * LinkedIn: <https://linkedin.com/in/avnik>
+  * GitHub: <https://github.com/avnik>
 
 ## Notes
-* Have EU work permit, can work as staff member (remote) or as independent 
-  contractor (b2b contract).
-* References are available upon request.
+  * Have EU residence status/work permit, can work as staff member (remote) or as independent 
+    contractor (b2b contract).
+  * References are available upon request.
