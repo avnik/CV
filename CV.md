@@ -7,7 +7,7 @@ Alexander V. Nikolaev
 Objective
 ---------
 
-Permanent or contract position of software developer (remote, B2B, basic rate 25-35/hour).
+Permanent or contract position of software developer (remote, C2C, basic rate 25-35/hour).
  
 
 Summary
@@ -28,22 +28,23 @@ Relevant experience and skills
 * Operating systems: Linux, Sun Solaris, NetBSD - deep knowledge
   of system management in unix systems.
   - Proficient knowledge of Nix package manager and NixOS Linux distribution,
-    contributing to nixpkgs.
-  - Deep knowledge of Debian/GNU Linux package management and configuration system. 
-  - Knowledge of DevOps (familiar with salt and ansible, basic knowlege of others).
+    contributing to nixpkgs, develop custom systems based on NixOS.
+  - Deep knowledge of Debian/GNU Linux package management and configuration system.
+  - Familiar with other major Linux distributions (both deb- and rpm- based systems, as well as less common)
+  - Knowledge of DevOps (familiar with Salt and Ansible, Terraform, basic knowlege of others systems).
   - Expirience of bug triaging.
 
 * Python (11 years of experience):
     - WSGI stack.
     - Buildout, and other python-based deploying technologies.
-    - Twisted (asynchronous servers, clients and process dispatchers)
+    - Twisted, asyncio, gevent (asynchronous servers, clients and process dispatchers)
     - SQLAlchemy (custom types, extensions)
-    - Web frameworks (pyramid, flask, tornado)
+    - Web frameworks (Pyramid, Flask, Tornado)
 
 * Haskell (1 year of experience)
     - Development of command-line tools, parsers, serializers.
     - Modern Haskell-based web stacks (servant, yesod, wai).
-    - Knowledge of stack, cabal, and all other related tooling. 
+    - Knowledge of Stack, Cabal, and all other related tooling. 
 
 * Nix/NixOS (2 years of experience)
     - Proficient packaging various open-source software, as well as knowledge how to
@@ -54,7 +55,8 @@ Relevant experience and skills
 
 * Other programming languages and technologies
     - Basic knowledge of Ocaml.
-    - Basic knoeledge of PureSript, Elm, Idris.
+    - Basic knoeledge of PureSript, Elm.
+    - Various MQ brokers (RabbitMQ, Kafka, Amazon SQS)
     - Erlang (OTP design principles, rebar, cowboy) 
     - Lua (including bindings for C/C++ libraries, and contribution to several
       open source projects.
@@ -62,7 +64,7 @@ Relevant experience and skills
     - shell scripting, development related to system management.
     - Javascript (basic knowlege to troubleshoot cases
       when clientside code goes into problems).
-    - Go (2 year of experience, not my favorite, but I know Go well)
+    - Go (3 year of experience, is not my favorite language, but I know Go well)
 
   Can read/understand code in most of modern imperative and functional 
   languages.
@@ -84,14 +86,14 @@ Lead developer, CEO, CTO, company owner
 (April 2008 -- now)
 
   * Contract work for LogicEditor:
-    Develop terminal server to support legacy applications (NixOS/wine/rdp) and
-    python software to control that server via REST.
+    Develop terminal server, leveraging legacy applications as web based SaaS
+    (including python software to control servers via REST and/or websockets)
     (2017-2018)
 
   * Contract work/internship with Serokell (<http://serokell.io>)
     Develop both customer-side code, and code for inner infrastructure.
     Junior/mid-level haskell.
-    (Nov 2017-2018)
+    (Nov 2017- May 2018)
 
   * Contract work for Asteris, LLC
     - Develop various components of Cisco's Mantl (<https://github.com/mantl/mantl>)
