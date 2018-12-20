@@ -1,25 +1,17 @@
 Alexander V. Nikolaev 
 =====================
-* E-mail: avn@avnik.info, avnick@gmail.com 
+* E-mail: avnick@gmail.com 
+* Skype: avnik78
 * Phone: +3(706)5015074 
-  (Preferred time: 15:00 - 21:00 GMT)
+  (Preferred time: 15:00 - 21:00 UTC)
 
 Objective
 ---------
 
-Permanent or contract position of software developer (remote, C2C, basic rate 25-35/hour).
- 
-
-Summary
--------
-
-14-years experience in software development, 9-years experience
-in system administration, strong problem solving skills, initiative,
-adaptability, willing to accept responsibility, willing to learn,
-strong team player, and strong communication skills.
-
-Accustomed to working independently, as part of a team, or leading a
-team of engineers.
+Experienced software engineer, with 14-years experience in software development, 9-years experience
+in system administration and have strong problem solving skills, initiative,
+willing to accept responsibility, strong team player, and strong communication skills.
+Looking for permanent or contract position (remote, C2C, basic rate $25-$35/hour).
 
 Relevant experience and skills
 ------------------------------
@@ -32,30 +24,28 @@ Relevant experience and skills
   - Deep knowledge of Debian/GNU Linux package management and configuration system.
   - Familiar with other major Linux distributions (both deb- and rpm- based systems, as well as less common)
   - Knowledge of DevOps (familiar with Salt and Ansible, Terraform, basic knowlege of others systems).
-  - Expirience of bug triaging.
 
 * Python (11 years of experience):
     - WSGI stack.
-    - Buildout, and other python-based deploying technologies.
+    - Web frameworks (Pyramid, Flask, Tornado)
     - Twisted, asyncio, gevent (asynchronous servers, clients and process dispatchers)
     - SQLAlchemy (custom types, extensions)
-    - Web frameworks (Pyramid, Flask, Tornado)
 
 * Haskell (1 year of experience)
     - Development of command-line tools, parsers, serializers.
-    - Modern Haskell-based web stacks (servant, yesod, wai).
+    - Modern Haskell-based web stacks (Servant, Yesod, WAI).
     - Knowledge of Stack, Cabal, and all other related tooling. 
 
 * Nix/NixOS (2 years of experience)
     - Proficient packaging various open-source software, as well as knowledge how to
       deal with proprietary stuff.
-    - Packaging and maintaining of private tree of packaged custom software.
-    - Various CI and CD toolchains based on Nix
+    - Maintaining of private tree of packaged custom software.
+    - CI and CD toolchains based on Nix
     - Familiar with various language-specific packages (i.e. Go, Python, Ruby)
 
 * Other programming languages and technologies
-    - Basic knowledge of Ocaml.
-    - Basic knoeledge of PureSript, Elm.
+    - Go (3 year of experience, is not my favorite language, but I know Go well)
+    - Basic knowledge of Ocaml, Rust, PureScript, Elm.
     - Various MQ brokers (RabbitMQ, Kafka, Amazon SQS)
     - Erlang (OTP design principles, rebar, cowboy) 
     - Lua (including bindings for C/C++ libraries, and contribution to several
@@ -64,7 +54,6 @@ Relevant experience and skills
     - shell scripting, development related to system management.
     - Javascript (basic knowlege to troubleshoot cases
       when clientside code goes into problems).
-    - Go (3 year of experience, is not my favorite language, but I know Go well)
 
   Can read/understand code in most of modern imperative and functional 
   languages.
@@ -80,84 +69,57 @@ Relevant experience and skills
 Employment history
 ------------------
 
-### Victoria Nova (Lithuanian company)
+### 2017-2018 LogicEditor (Software Engineer, C2C Contract)
+ * Develop terminal server, leveraging legacy applications as web based SaaS
+   (including python software to control servers via REST and/or websockets)
 
-Lead developer, CEO, CTO, company owner
-(April 2008 -- now)
+### 2017-2018 Serokell (internship)
+ * Worked on both customer-side code, and code for inner infrastructure.
+   (Junior/mid-level haskell).
 
-  * Contract work for LogicEditor:
-    Develop terminal server, leveraging legacy applications as web based SaaS
-    (including python software to control servers via REST and/or websockets)
-    (2017-2018)
+### 2015-2016 Asteris, LLC (Software Engineer, C2C contract)
+ * Developed various components of Cisco's Mantl (<https://github.com/mantl/mantl>)
+ * Develop storage related (LVM/FS) components of <http://converge.aster.is>
+ * Performed pre-release testing of Mantl for AWS and OpenStack platforms.
 
-  * Contract work/internship with Serokell (<http://serokell.io>)
-    Develop both customer-side code, and code for inner infrastructure.
-    Junior/mid-level haskell.
-    (Nov 2017- May 2018)
+### 2013-2015 SendGrid, Inc: (Software Engineer, C2C contract)
+ * Custom tools to benchmark RabbitMQ and Kafka (erlang, and python)
+ * Develop agent software for CleverDB project (python). 
+   Also supported packages of `cleverdb-agent` for major linux distributions.
+ * Develop go-gmime binding (over 80% of API covered, opensource:
+   https://github.com/sendgrid/go-gmime)
+ * Varoius other in-house tools and libraries (golang, python, erlang)
 
-  * Contract work for Asteris, LLC
-    - Develop various components of Cisco's Mantl (<https://github.com/mantl/mantl>)
-    - Develop storage related (LVM/FS) components of <http://converge.aster.is>
-    (2015-2016)
-
-  * Contract work for SendGrid, Inc:
-    - Custom tools to benchmark RabbitMQ and Kafka (erlang, and python)
-    - Develop agent software for CleverDB project (python). 
-      Also supported packages of `cleverdb-agent` for major linux distributions.
-    - Develop go-gmime binding (over 80% of API covered, opensource:
-      https://github.com/sendgrid/go-gmime)
-    - Varoius other in-house tools and libraries (golang, python, erlang)
-      (2013-2015)
-
-  * Contract work for LogicEditor:
-    Develop various enchancement for Lua infrastructure, and binding for
+### 2011-2012 LogicEditor (Software Engineer, C2C contract)
+ *  Develop various enchancement for Lua infrastructure, and binding for
     Lua to third party libraries (most of this activity open sourced, and 
     visible via my github profile)
-    (2011-2012, lua)
 
-  * Contract work for customer, who wants to be anonymous
-    Support of realtime web application in python (tornado), optimising memory
-    usage. (2013, python, tornado)
+### 2010-2011 IT Infrastructure (Embedded Software Engineer, C2C contract)
+ * Was hired to work fulltime on OpenInkpot project
+ * developed both system components and applications
+ * developed various plugins for CoolReader application on LBook e-ink readers
 
-  * Contract work for "IT Infrastructure, Kiev":
-    Was hired to work fulltime on OpenInkpot project, developed both system
-    components and applications
-    (2010-2011, c,c++)
+### 2008-2018 Victoria Nova, UAB (Software Engineer, CTO, owner)
+ * Various web development (python, django, pyramid, tornado) for customers,  including
+   realtime web applications.
 
-  * Contract work for "IT Infrastructure, Kiev":
-    development various plugins for CoolReader application on LBook e-ink readers
-    (2010, c++)
-
-  * Various web development (python, django/pyramid) for customers
-
-### DIP Studija (Lithuanian company)
-
-Software developer
-(March 2007 -- April 2008 as staff member)
-(April 2008 -- August 2008 as independent contractor)
+### 2007-2008 DIP Studija (Software Engineer, C2C contract)
 
   * Developed prototype of custom video hosting for in-house usage (storage and server parts)
     (python, twisted)
   * Developed various custom web crawlers.
     (python, twisted)
 
-### Jet Infosystems (Russia)
+### 2004-2007 Jet Infosystems (QA Software Engineer)
 
-    (June 2004 -- 2007)
-    QA Engineer and software developer.
+  * Developed system for automatically regression testing of complex software system.
+  * Administrated farm of servers for QA (Solaris and Linux)
+  * Developed scipts for automatic deployment OEM software.
+  * Developed automatic and interactive installers for solaris based software
+  * Developed log analyzer component for "Z-2 Firewall" (perl)
 
-  Developed system for automatically regression testing of complex software system.
-  Administrated farm of servers for QA (solaris/linux)
-  Developed scipts for automatic deployment OEM software.
-  Developed automatic and interactive installers for solaris based software
-  Developed log analyzer component for "Z-2 Firewall" (perl)
-  Developed customized version of bug tracking database. (perl)
-  Developed tool for generate appliance platform from set of debian packages
-
-### AltLinux (Russia)
-
-Software Developer
-(August 2002 --- June 2004)
+### 2002-2004 AltLinux (Software Developer) 
 
   * Prototyping automated build and test environment which led to 3 times 
     shortening build/test/improve cycle. Setting up isolated environments 
@@ -167,10 +129,7 @@ Software Developer
   * Prepared Debian/GNU Linux DVD images to release (with additional packages 
     with cyrillic fonts, and AltLinux developed software)
 
-### TransSoftMedia (aka Russian Linux Media Labs operation)
-
-(October 2000 -- July 2002)
-Software Analyst and Developer 
+### 2000-2002 TransSoftMedia (Software Developer)
 
  * System integration for videoconferences and IP-phone appliances 
    pre-production prototypes (C++,perl).
@@ -178,13 +137,12 @@ Software Analyst and Developer
    `autoconf`, `automake`, `RPM` and `Dpkg` packaging tools.
    
 ## Spoken languages
-  * English --- excellent written english, fluent spoken.
-  * Russian --- mother tongue
-  * Lithuanian --- fluent
+  * English (fluent)
+  * Russian
 
 ## Professional interests
   * NixOS linux distribution
-  * Functional programing languages
+  * Functional programming languages
   * Compilers and code generations
 
 ## Links
@@ -193,6 +151,5 @@ Software Analyst and Developer
 
 ## Notes
   * Have EU residence status/work permit, can work as staff member (remote) or as independent 
-    contractor (B2B contract).
-  * As a B2B contractor I need no visa and no explicit work permit to work remotely in US/UK/other EU countries
-  * References are available upon request.
+    contractor (C2C contract).
+  * As a C2C contractor I need no visa and no explicit work permit to work remotely in US/UK/other EU countries
