@@ -111,6 +111,10 @@ Employment history
   * Developed various custom web crawlers.
     (python, twisted)
 
+### 2007 ArcusNovus (Software Engineer, C2C contract)
+
+  * Development of driver for USB adapter of sattelite receiver (both userspace and kernel)
+
 ### 2004-2007 Jet Infosystems (QA Software Engineer)
 
   * Developed system for automatically regression testing of complex software system.
