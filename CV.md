@@ -1,7 +1,6 @@
 Alexander V. Nikolaev 
 =====================
 * E-mail: avnick@gmail.com 
-* Skype: avnik78
 * Phone: +3(706)5015074 
   (Preferred time: 12:00 - 21:00 UTC)
 
