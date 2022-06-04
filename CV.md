@@ -10,7 +10,7 @@ Objective
 Experienced software engineer, with 15-years experience in software development, 10-years experience
 in system administration and have strong problem solving skills, initiative,
 willing to accept responsibility, strong team player, and strong communication skills.
-Looking for permanent or contract position (remote, C2C, basic rate $30-$35/hour).
+Looking for permanent or contract position (remote, C2C, basic rate $40-$50/hour).
 
 Relevant experience and skills
 ------------------------------
