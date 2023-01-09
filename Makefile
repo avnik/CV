@@ -3,8 +3,8 @@ all:  CV.html CV.pdf CV.docx
 %.html: %.md
 	pandoc -t html -o $@ $< -c resume.css
 
-%.pdf:  %.md
-	pandoc --template=resume-template.tex --pdf-engine xelatex $< -o $@
+%.pdf:  %.md resume-template.tex Makefile
+	pandoc -f markdown+fancy_lists --pdf-engine xelatex $< -o $@
 
 %.docx: %.md
 	pandoc -o $@ $<
