@@ -24,19 +24,25 @@ header-includes:
 Alexander V. Nikolaev 
 =====================
 * E-mail: avnick@gmail.com 
-* Phone: +3(706)5015074 
+* Phone: +37065015074 
   (Preferred time: 12:00 - 20:00 UTC)
+* LinkedIn: <https://linkedin.com/in/avnik>
+* GitHub: <https://github.com/avnik>
+
+Summary
+-------
+
+Experienced software engineer, with 20-years experience in software development, 17-years experience
+in system administration and have strong problem solving skills, initiative,
+willing to accept responsibility, strong team player, and strong communication skills.
 
 Objective
 ---------
+Looking for permanent or contract position (remote, C2C) of software engineer in project leveraging
+Haskell, Rust and NixOS, where I can use my strongest skills, improving products quality.
 
-Experienced software engineer, with 17-years experience in software development, 12-years experience
-in system administration and have strong problem solving skills, initiative,
-willing to accept responsibility, strong team player, and strong communication skills.
-Looking for permanent or contract position (remote, C2C, basic rate $45-$60/hour).
-
-Relevant experience and skills
-------------------------------
+Relevant skills
+---------------
 
 * Hardware/software system integration.
 * Linux -- deep knowledge of system management in unix systems.
@@ -46,7 +52,7 @@ Relevant experience and skills
   - Knowledge of DevOps (familiar with Salt and Ansible, Terraform, basic knowlege of others systems).
   - Embedded linux (Yocto/OE, build automation for xilinx based project).
 
-* Haskell (3 year of experience)
+* Haskell (3 year of commercial experience)
     - Development of command-line tools, parsers, serializers.
     - Modern Haskell-based web stacks (Servant, Yesod, WAI).
     - Interaction with RDBMS (beam, opaleye).
@@ -75,7 +81,7 @@ Relevant experience and skills
   Can read/understand code in most of modern imperative and functional 
   languages.
 
-* Knowledge of AWS cloud services, experience with Dynamo DB and SQS.
+* Knowledge of AWS cloud services, experience with Dynamo DB and SQS. (Also with EC2 as devops)
 * Proficiency with docker, and related tools.
 * Databases (basic knowledge of both SQL and NoSQL including Redis and Riak)
 * Network protocols: HTTP (including websockets), SMTP, HTTP,
@@ -131,7 +137,7 @@ Employment history
  * Was hired to work fulltime on OpenInkpot project (worked on system components and applications)
  * developed various plugins for CoolReader application on LBook e-ink readers
 
-### 2008-2018 Victoria Nova, UAB (Software Engineer, CTO, owner)
+### 2008-2023 Victoria Nova, UAB (Software Engineer, CTO, owner)
  * Various web development (python, django, pyramid, tornado) for customers,  including
    realtime web applications.
 
@@ -164,19 +170,15 @@ Employment history
    
 ## Spoken languages
   * English (fluent)
-  * Russian (native)
   * Lithuanian (basic proficiency)
+  * Russian (native)
 
 ## Professional interests
   * NixOS linux distribution
   * Functional programming languages
   * Compilers and code generations
 
-## Links
-  * LinkedIn: <https://linkedin.com/in/avnik>
-  * GitHub: <https://github.com/avnik>
-
 ## Notes
-  * Have EU residence status/work permit, can work as staff member (remote) or as independent 
+  * Have EU permanent residence status/work permit, can work as staff member (remote) or as independent 
     contractor (C2C contract).
   * As a C2C contractor I need no visa and no explicit work permit to work remotely in US/UK/other EU countries
